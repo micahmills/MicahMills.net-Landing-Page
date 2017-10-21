@@ -1,0 +1,28 @@
+# Site settings
+title: MicahMills.net
+email: micahmills@gmail.com
+description: Micah Mills - Web Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://micahmills.net" # the base hostname & protocol for your site
+
+# Identity
+your-name: Micah Mills
+your-title: Web Developer
+
+# Social settings
+500px_url: https://micahmills.net/assets/images/avatar.jpg
+facebook_url: https://facebook.com/micahmills
+github_url: https://github.com/micahmills
+gitlab_url: 
+googleplus_url:
+instagram_url: https://www.instagram.com/micahmills84/
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/micahmills
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
